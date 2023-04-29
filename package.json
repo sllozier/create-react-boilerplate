@@ -1,6 +1,6 @@
 {
     "name": "create-react-boilerplate-sllozier",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "bin": {
       "create-boilerplate": "./bin/create-app.js"
     },
