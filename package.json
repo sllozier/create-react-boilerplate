@@ -1,8 +1,8 @@
 {
-    "name": "create-react-boilerplate",
+    "name": "create-react-boilerplate-sllozier",
     "version": "0.0.1",
     "bin": {
-      "create-boilerplate": "./create-app.js"
+      "create-boilerplate": "./bin/create-app.js"
     },
     "description": "React boilerplate that builds from webpack but no bulma added for fullstack app.",
     "main": "webpack.config.js",
@@ -28,6 +28,12 @@
     ],
     "author": "sllozier",
     "license": "MIT",
+    "homepage": "https://github.com/sllozier/create-react-boilerplate",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sllozier/create-react-boilerplate.git"
+      },
+      "bugs": "https://github.com/sllozier/create-react-boilerplate/issues",
     "dependencies": {
         "@reduxjs/toolkit": "^1.8.6",
         "axios": "^0.27.2",
